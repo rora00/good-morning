@@ -1,2 +1,2 @@
 # good-morning
-which whatsapp user wouldn't want to wake up to an inspirational good morning post?
+Generates a cringe good morning post by combining a random photo of a flower and a random quote from a Quotes API
